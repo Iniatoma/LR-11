@@ -201,7 +201,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_SendPointerHoverToParent: 1
   m_HorizontalAxis: Horizontal
   m_VerticalAxis: Vertical
   m_SubmitButton: Submit
@@ -1007,7 +1006,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.319, y: 0}
   m_AnchorMax: {x: 0.69000006, y: 0.132}
-  m_AnchoredPosition: {x: -7.838379, y: 208.18335}
+  m_AnchoredPosition: {x: -7.8384094, y: 208.18338}
   m_SizeDelta: {x: -507.00623, y: -42.975998}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2090309290
